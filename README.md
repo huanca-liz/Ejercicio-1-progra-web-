@@ -24,6 +24,7 @@ El usuario debe ingresar una temperatura inicial y una temperatura final. Al pre
 
 Entrada: 20 y 25
 Salida: La temperatura aumentó
+link : https://huanca-liz.github.io/ejer1-y-ejer2/
 
 ---
 
