@@ -48,7 +48,7 @@ El usuario ingresa un número y presiona un botón. El sistema calcula el factor
 
 Entrada: 5
 Salida: 120
-
+link : https://huanca-liz.github.io/ejercicio2/
 ---
 
 ## Estructura del proyecto
